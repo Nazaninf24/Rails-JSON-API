@@ -11,11 +11,11 @@
 ### Deployment instructions
 
 * Run in your Terminal :
-$ `bundle update`
-$ `bundle install`
-$ `rails db:create`
-$ `rails db:migrate`
-$ `rails db:seed`
+* $ `bundle update`
+* $ `bundle install`
+* $ `rails db:create`
+* $ `rails db:migrate`
+* $ `rails db:seed`
 * Run the server at your http://localhost:3000/  : $ `rails server`
 * To check inside your terminal console :  $ `rails console`
 * Check it also inside your : `Insomnia`

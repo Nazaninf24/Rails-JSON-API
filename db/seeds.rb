@@ -11,7 +11,7 @@ require 'faker'
 10.times do |i|
   User.create!(
     email: Faker::Internet.unique.email,
-    password: "azerty"
+    password: "123456"
   )
   3.times do |j|
     Article.create!(

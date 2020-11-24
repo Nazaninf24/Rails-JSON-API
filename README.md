@@ -1,6 +1,6 @@
 # Using Rails to create a JSON API
 
-## How to run the application 
+## How to run the application  :
 
 ### The app
 
@@ -16,5 +16,6 @@ $ `bundle install`
 $ `rails db:create`
 $ `rails db:migrate`
 $ `rails db:seed`
-* run the server in your http://localhost:3000/ :  $ `rails server`
-* To check it in your Terminal console:  $ `rails console`
+* run the server at your http://localhost:3000/  : $ `rails server`
+* To check inside your terminal console :  $ `rails console`
+* Check it also inside your : `Insomnia`
